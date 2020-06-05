@@ -3,7 +3,7 @@
 
 EAPI="4"
 
-DESCRIPTION="vistual bsp"
+DESCRIPTION="virtual bsp"
 HOMEPAGE="http://fydeos.com"
 
 LICENSE="BSD-Google"
