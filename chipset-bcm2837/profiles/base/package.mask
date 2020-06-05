@@ -1,2 +1,1 @@
 sys-kernel/upstream-kernel-mainline::chromiumos
-chromeos-base/chromeos-chrome::chromiumos
